@@ -5,22 +5,21 @@
 </h3>
 
 <div>
+
+  <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+
+    
+  </div>
     <a href="https://github.com/lanaskyu">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lanaskyu&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanaskyu&layout=compact&langs_count=16&theme=jolly"/>
     </a>
+    
+   <img src="./download.gif" width="200px">
+   
 </div>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
 
-   <a href="https://github.com/lanaskyu">
-        <img height="180em" src=""/>
-        <img height="180em" src=""/>
-    </a>
-
-   <img src="./download.gif" width="200px">
-    
-  </div>
 
 <div style="display: inline_block"><br>
     <img align="center" alt="lana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
