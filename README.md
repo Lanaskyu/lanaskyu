@@ -11,9 +11,16 @@
     </a>
 </div>
 
-<div align="center">
-    <img src="./download.gif" width="250px">
-    </div>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+
+   <a href="https://github.com/lanaskyu">
+        <img height="180em" src=""/>
+        <img height="180em" src=""/>
+    </a>
+
+   <img src="./download.gif" width="200px">
+    
+  </div>
 
 <div style="display: inline_block"><br>
     <img align="center" alt="lana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
