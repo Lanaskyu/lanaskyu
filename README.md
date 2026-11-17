@@ -1,7 +1,7 @@
 <h1 align="center">Alana Julia</h1>
 
 <h3 align="center">
-  Estudante de Tecnologia | Front-end Developer | Full-stack Enthusiast
+  Estudante de Tecnologia | Front-end Developer | Explorando Full-stack 
 </h3>
 
 <!--
