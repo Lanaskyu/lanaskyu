@@ -1,4 +1,8 @@
-## Alana Julia
+<h1 align="center">Alana Julia</h1>
+
+<h3 align="center">
+  Estudante de Tecnologia | Front-end Developer | Full-stack Enthusiast
+</h3>
 
 <!--
 **Lanaskyu/lanaskyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
