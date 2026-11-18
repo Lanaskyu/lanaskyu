@@ -15,7 +15,7 @@
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanaskyu&layout=compact&langs_count=16&theme=jolly"/>
     </a>
     
-   <img src="./download" width="200px">
+   <img src="./download.gif" width="200px">
    
 </div>
 
